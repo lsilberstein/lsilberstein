@@ -1,4 +1,5 @@
-> "Ich hab dir Blumen von der Tanke mitgebracht (jetzt wird geküsst)"
+Currently studying Computer Science at Ostfalia University of applied sciences in Wolfenbüttel while also working at Volkswagen AG in Wolfsburg.
+Interested in coding, photography & music.
 
 contact me:
 
