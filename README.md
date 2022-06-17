@@ -1,4 +1,9 @@
-### Hi there 👋
+> "Ich hab dir Blumen von der Tanke mitgebracht (jetzt wird geküsst)"
+
+contact me:
+
+**[Mail](mailto:l.silberstein@ostfalia.de)**
+**[Instagram](https://www.instagram.com/linusmagplina/)**(I also love to take pictures)
 
 <!--
 **lsilberstein/lsilberstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
