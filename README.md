@@ -1,13 +1,6 @@
 ### 21, he / him
 
 Currently studying Computer Science with emphasis on Data Science at Ostfalia University of applied sciences in Wolfenbüttel while also working at Volkswagen AG in Wolfsburg.
-Interested in coding, photography & music.
-
-contact me:
-
-**[Mail](mailto:l.silberstein@ostfalia.de)**
-
-**[Instagram](https://www.instagram.com/linusmagplina/)** (I also love to take pictures)
 
 <!--
 **lsilberstein/lsilberstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
