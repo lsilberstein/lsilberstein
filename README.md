@@ -1,8 +1,8 @@
 # About me
 
-## 21, he / him
+**21, he / him**
 
-Currently studying Computer Science with emphasis on Data Science at Ostfalia University of applied sciences in Wolfenbüttel while also working at Volkswagen AG in Wolfsburg.
+Currently studying Computer Science with emphasis on Software Engineering at Ostfalia University of applied sciences in Wolfenbüttel while also working at Volkswagen AG in Wolfsburg.
 
 <!--
 **lsilberstein/lsilberstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
