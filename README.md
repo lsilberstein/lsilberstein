@@ -4,6 +4,8 @@
 
 Currently studying Computer Science with emphasis on Software Engineering at Ostfalia University of applied sciences in Wolfenbüttel while also working at Volkswagen AG in Wolfsburg.
 
+[portfolio](http://portfolio.linussilberstein.de)
+
 <!--
 **lsilberstein/lsilberstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
